@@ -173,6 +173,7 @@ display:flex;
 	
 }
 .shirts{
+text-align:center;
 	margin:10px;
 	border:solid white 2px;
 	border-radius:10px;
@@ -188,6 +189,7 @@ display:flex;
 	border-radius:10px ;
 }
 .pants{
+text-align:center;
 	margin:10px;
 	border:solid 2px white;
 	border-radius:10px;
@@ -197,6 +199,7 @@ display:flex;
 	padding-left: 15px;
 }
 .tshirt{
+text-align:center;
 	height:350px;
 	overflow-y: scroll;
 	padding-left:15px;
